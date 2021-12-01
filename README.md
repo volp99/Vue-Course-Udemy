@@ -10,7 +10,7 @@
 
 ### [1 - Basics](Theory/01-basics)
 
-A fresh start using data binding and explore the principles core feature of Vue
+A fresh start using data binding and explore the principles core feature of Vue.
 
 ### [Basics Assignment](Assignments/01-basic-assignment-1-problem)
 
@@ -53,7 +53,7 @@ Basic exercise to outputting values using events like `on-click` and `on-keydown
 **Computed Properties**
 
 Are like methods but with one important difference: Vue will be aware of their dependencies and only re-execute them if
-one of the dependencies change
+one of the dependencies change.
 
 **Watchers**
 
