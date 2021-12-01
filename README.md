@@ -1,8 +1,9 @@
 # Vue-Course-Udemy
 
 ### Course Content
+This is a full guide to Vue.js created following the course of [Academind](https://academind.com) by [Maximilian Schwarzmüller](https://github.com/maxschwarzmueller)
 
-#### Basic
+#### [Basic](https://github.com/volp99/Vue-Course-Udemy/tree/02-Basic-%26-Core-Concepts)
 
 <ul>
 <li>Core Syntax</li>
