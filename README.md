@@ -19,7 +19,6 @@ Is the else of a JavaScript condition.
 
 > It must be use directly after a v-if condition
 
-
 Here is an example:
 
 ```
@@ -72,6 +71,7 @@ For example loop numbers to ten:
 ```
 
 Or loop object:
+
 ```
  <ul>
     <li v-for="num in 10">{{num}}</li>
@@ -79,9 +79,12 @@ Or loop object:
 ```
 
 > **A best practice**
-> 
->v-for must be followed by a unique key which in the most cases is the id.
-> 
->In this case you help Vue to define the exact element you want to delete and improve performance.
+>
+> v-for must be followed by a unique key which in the most cases is the id.
+>
+> In this case you help Vue to define the exact element you want to delete and improve performance.
 
 ### [Assignment](Assignments/01-lists-conditionally-assignment-problem)
+
+Create a task list with the Vue conditional statement.
+You can add a task and hide it.
