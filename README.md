@@ -2,4 +2,4 @@
 
 ## How Vue Works
 
-Understanding "Virtual DOM" & DOM Updating
+Understanding "Virtual DOM" & DOM Updating.
